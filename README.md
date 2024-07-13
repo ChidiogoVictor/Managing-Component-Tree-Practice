@@ -1,2 +1,4 @@
 # Managing-Component-Tree-Practice
-Created with CodeSandbox
+Added different functionalities of the website into different components.
+# Technologies
+HTML, CSS, JavaScript, ReactJS.
